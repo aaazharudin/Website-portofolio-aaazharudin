@@ -4,7 +4,8 @@ import IMG1 from '../../assets/ss frontend.png'
 import IMG2 from '../../assets/todolist.png'
 import IMG3 from '../../assets/oke.png'
 import IMG4 from '../../assets/WeatherJs.png'
-import IMG6 from '../../assets/Project4.jpg'
+import IMG6 from '../../assets/Web-Porto-rima.png'
+import IMG7 from '../../assets/Simple-Quiz.png'
 import React from 'react'
 
 //Portfolio function
@@ -15,48 +16,60 @@ const Portfolio = () => {
       title: 'Website Aldrin Motor With Laravel',
       img: IMG1,
       description:
-        'Website Aldrin Motor merupakan bisnis otomotif. Website ini memiliki tampilan menarik, katalog produk, informasi perusahaan, fitur pencarian, halaman blog, dan informasi kontak. Tujuannya adalah meningkatkan online presence perusahaan dan memberikan pengalaman pengguna yang baik. ',
+        'The Aldrin Motor website is an automotive business platform. It features an attractive design, a product catalog, company information, a search function, a blog page, and contact details. The goal is to enhance the companys online presence and provide a great user experience.',
       technologies: 'Bootstrap Css | Vue JS | Laravel',
       link: 'https://frontend-website-marketplace.vercel.app/',
       github: '',
     },
     {
       id: 2,
-      title: 'Weather App ',
-      img: IMG4,
+      title: 'Website Portofolio',
+      img: IMG6,
       description:
-        'Portofolio ini menampilkan pembuatan website informasi cuaca menggunakan Open API. Website ini memberikan informasi cuaca terkini dengan tampilan informatif dan responsif, serta fitur pencarian lokasi. Tujuannya adalah menyediakan sumber informasi cuaca yang mudah diakses dan informatif.',
-      technologies: 'HTML| CSS | Javascript',
-      link: 'https://project-30-days.vercel.app/',
+        'In this portfolio, you’ll find a selection of my projects that showcase my skills in web development and design. Each project reflects my commitment to quality, attention to detail, and innovative problem-solving. Whether it’s building a dynamic web application or a visually stunning landing page, I strive to bring creativity and technical expertise to every project.',
+      technologies: 'Html | css | Javascript',
+      link: 'https://landing-page-rima1-pure-html-css.vercel.app/',
       github: '',
     },
+    
     {
       id: 3,
       title: 'To-Do List Project',
       img: IMG2,
       description:
-        'Proyek ini adalah aplikasi daftar tugas yang membantu pengguna mencatat, mengelola, dan melacak tugas-tugas mereka. Aplikasi ini memungkinkan penambahan, pengeditan, dan penghapusan tugas. Tujuannya adalah membantu pengguna mengatur tugas-tugas sehari-hari dengan lebih baik.',
+        'This project is a task list application that helps users note, manage, and track their tasks. The application allows for adding, editing, and deleting tasks. The goal is to assist users in better organizing their daily responsibilities.',
       technologies: 'HTML | CSS | Javascript ',
       link: 'https://project-30-days-gdgu.vercel.app/',
-      github: 'https://github.com/Rasif-Taghizada/RubyCode-Blog',
+      github: '',
     },
     {
       id: 4,
       title: 'Website WeeBoo',
       img: IMG3,
-      description: 'Website untuk Penggemar anime',
+      description: 
+        'Weeboo is an innovative platform that connects anime and manga fans around the world. Here, you can find a wealth of up-to-date information about your favorite series, recommendations, reviews, and discussion forums with like-minded community members.',
       technologies: 'React JS',
       link: 'https://latihan-soal-javascript.vercel.app/',
-      github: 'https://github.com/Rasif-Taghizada/Alpha-Agency-Project',
+      github: '',
     },
     {
       id: 6,
-      title: 'Fs Poster Website',
-      img: IMG6,
+      title: 'Weather App ',
+      img: IMG4,
       description:
-        'Real-world group project which is still in progress and will provide educational platform for future young developers',
-      technologies: 'Html | Scss | Javascript',
-      link: 'https://fs-poster-project.vercel.app/',
+        'This portfolio showcases the creation of a weather information website using Open API. The website provides up-to-date weather information with an informative and responsive layout, along with a location search feature. The goal is to offer an easily accessible and informative weather resource.',
+      technologies: 'HTML| CSS | Javascript',
+      link: 'https://project-30-days.vercel.app/',
+      github: '',
+    },
+    {
+      id: 7,
+      title: 'Simple Quiz Website',
+      img: IMG7,
+      description:
+        'Welcome to our Simple Quiz Website! This interactive platform is designed to challenge your knowledge and provide a fun way to learn new things. Whether you’re a trivia buff or just looking to test your skills, we have quizzes on a variety of topics that cater to all interests.',
+      technologies: 'HTML| CSS | Javascript',
+      link: 'https://project-30-days-culj.vercel.app/',
       github: '',
     },
   ]

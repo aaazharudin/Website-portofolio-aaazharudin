@@ -39,6 +39,10 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Laravel</h4>
             </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Golang</h4>
+            </article>
           </div>
         </div>
       </div>

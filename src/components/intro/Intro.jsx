@@ -32,14 +32,25 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+          I am a dedicated developer specializing in building robust web applications using PHP, Laravel, Go, the Gin framework, React.js, and JavaScript. 
+          With years of experience, I’ve successfully delivered projects from simple websites to complex applications. Whether you need backend solutions, 
+          API development, or full-stack web development, I provide high-quality results.
+          <hr />
+          Core Skills:
+          <hr />
+          PHP & Laravel: Creating dynamic and secure web applications and REST APIs.
+          Go & Gin: Developing high-performance backend services and microservices.
+          Database Design: Expert in MySQL and PostgreSQL for scalable architecture.
+          API Integration: Building and consuming APIs for various services.
+          Problem Solving: Skilled in debugging and optimizing applications.
+          <hr />
+          Why hire me?
+          <hr />
+          Proven experience in delivering projects on time and within budget.
+          Strong attention to detail and a problem-solving mindset.
+          Committed to clear communication and ensuring client satisfaction.
+
+          Let’s work together to bring your ideas to life!
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
