@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://latihan-soal-javascript-nvqg.vercel.app/)
 
-![Protfolio Website](src/assets/Portfolio%20preview.png)
+![Protfolio Website](src/assets/preview%20portofolio.png)
 
 <br/>
 
